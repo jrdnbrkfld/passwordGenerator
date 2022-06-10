@@ -4,5 +4,5 @@ A simple password generator made with Python. Enter the amount of passwords you 
 
 
 
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/98277650/173161628-33ad26b2-4aae-44c6-bbc6-5a87f9c2dc30.png">
 
-<img width="365" alt="image" src="https://user-images.githubusercontent.com/98277650/173161517-3fd76dc6-3700-4f36-b856-d6480764564d.png">

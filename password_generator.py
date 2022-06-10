@@ -18,4 +18,5 @@ for pwd in range(number):
         passwords += random.choice(characters)
     print(passwords)
 
-input('\nHit Enter to exit the program')
+closeInput = input("Press ENTER to exit")
+print("Closing...")
